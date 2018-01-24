@@ -17,7 +17,7 @@ Settings > Developer options > Debug over Wi-Fi (IP Address:Port)
 
 #### Enable Wi-Fi in Phone
 
-#### Enable Wi-fi in Wear Device
+#### Enable Wi-Fi in Wear Device
 
 #### Find the IP address of the Phone
 Settings > Wi-Fi > Connected Wi-Fi > IP Address
